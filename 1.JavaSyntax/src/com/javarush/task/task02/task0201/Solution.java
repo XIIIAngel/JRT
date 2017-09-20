@@ -13,6 +13,7 @@ public class Solution {
 
        while (x < 5){
            System.out.println(s);
+           int i = 535;
            x = x+1;
        }
     }

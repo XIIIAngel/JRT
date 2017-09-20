@@ -1,6 +1,7 @@
 # Idea files
 .idea
 /out
+/tasks
 
 # Plugin properties
 JavaRushPlugin.properties
